@@ -1,7 +1,7 @@
 
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
-  <h1>🌐 Conectro: The Ultimate Universal Terminal &amp; SSH Client</h1>
+  <h2>🌐 Conectro: The Ultimate Universal Terminal &amp; SSH Client</h2>
 
   <p><strong>Streamlined remote access, file management, and AI-powered workflows for power users and sysadmins.</strong></p>
 
